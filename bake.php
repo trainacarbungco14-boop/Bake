@@ -50,7 +50,7 @@ $total = $priceString + 50; // converts "100" to int
     </table>
 
     <div class="result-box">
-        <h3>PHP Computation Example</h3>
+        <h3>Computation</h3>
 
         <p><strong>Selected Item:</strong> <?= $selectedItem["name"] ?></p>
         <p><strong>Price:</strong> <?= $selectedItem["price"] ?></p>
@@ -70,5 +70,6 @@ $total = $priceString + 50; // converts "100" to int
 
 </body>
 </html>
+
 
 <?php include('footer.php'); ?>
