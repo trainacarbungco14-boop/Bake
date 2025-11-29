@@ -30,6 +30,7 @@ $total = $priceString + 50; // converts "100" to int
 <body>
 <nav class="navbar">
     <a href="index.php">🏠 Home</a> |
+    <a href="bake.php">🍪 Treats</a> |
     <a href="conditional.php">🧩 Conditionals</a> |
     <a href="loop.php">🔁 Loops</a>
 </nav>
@@ -78,5 +79,6 @@ $total = $priceString + 50; // converts "100" to int
 
 
 <?php include('footer.php'); ?>
+
 
 
