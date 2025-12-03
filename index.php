@@ -26,7 +26,8 @@ $featuredProducts = [
     <a href="index.php">🏠 Home</a> |
     <a href="bake.php">🍪 Treats</a> |
     <a href="conditional.php">🧩 Conditionals</a> |
-    <a href="loop.php">🔁 Loops</a>
+    <a href="loop.php">🔁 Loops</a> |
+    <a href="stock.php">📦 Stock</a>
 </nav>
 
 <!-- HERO SECTION -->
@@ -64,3 +65,4 @@ $featuredProducts = [
 </html>
 
 <?php include('footer.php'); ?>
+
