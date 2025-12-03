@@ -34,7 +34,8 @@ foreach ($pastries as $item) {
     <a href="index.php">🏠 Home</a> |
     <a href="bake.php">🍪 Treats</a> |
     <a href="conditional.php">🧩 Conditionals</a> |
-    <a href="loop.php">🔁 Loops</a>
+    <a href="loop.php">🔁 Loops</a> |
+    <a href="stock.php">📦 Stock</a>
 </nav>
 
 <h2>🎄 Bakie Treats Bakery – Loops</h2>
@@ -50,6 +51,7 @@ foreach ($pastries as $item) {
 
 </body>
 </html>
+
 
 
 <?php include('footer.php'); ?>
