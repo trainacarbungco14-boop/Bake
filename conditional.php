@@ -39,7 +39,8 @@ $matchMessage = match ($pastry) {
     <a href="index.php">🏠 Home</a> |
     <a href="bake.php">🍪 Treats</a> |
     <a href="conditional.php">🧩 Conditionals</a> |
-    <a href="loop.php">🔁 Loops</a>
+    <a href="loop.php">🔁 Loops</a> |
+    <a href="stock.php">📦 Stock</a>
 </nav>
 
 <h2>🎄 Bakie Treats Bakery – Conditionals</h2>
@@ -57,5 +58,6 @@ $matchMessage = match ($pastry) {
 
 </body>
 </html>
+
 
 <?php include('footer.php'); ?>
